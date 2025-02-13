@@ -5,7 +5,7 @@ import './App.css'
 import Cards from './components/Cards'
 
 function App() {
-  const [count, setCount] = useState(0)
+  const [color, setColor] = useState('olive')
   let newarr=[1,2,3,4]
 
   return (
